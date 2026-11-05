@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "name": "Python Master - Code Lab",
+  "short_name": "PyMaster",
+  "description": "Master Python programming with interactive notes, runnable code playgrounds, gamified quizzes, and interview prep.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#3776ab",
+  "icons": [
+    {
+      "src": "/app-icon.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/app-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Python Master - Interactive Learning & Code Lab",
+  "description": "Master Python programming with interactive notes, runnable code playgrounds, gamified quizzes, 500+ interview questions, and real-time skill tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

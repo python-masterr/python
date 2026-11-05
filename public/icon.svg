@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#3776ab"/>
+    </linearGradient>
+    <linearGradient id="yellow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fef08a"/>
+      <stop offset="100%" stop-color="#ffd43b"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="128" fill="url(#bg)"/>
+  <circle cx="256" cy="256" r="210" fill="none" stroke="url(#blue)" stroke-width="8" opacity="0.4"/>
+  <g transform="translate(100, 100) scale(0.61)">
+    <!-- Stylized Python Snake Head & Curve 1 -->
+    <path d="M 254.2 0 C 117.5 0 125.8 59.4 125.8 59.4 L 126 120.9 L 258 120.9 L 258 139.7 L 73.8 139.7 C 73.8 139.7 0 131.3 0 268 C 0 404.7 64.5 397.4 64.5 397.4 L 103 397.4 L 103 343.8 C 103 343.8 99.4 279.7 165.6 279.7 L 297.8 279.7 C 297.8 279.7 358.5 281.3 358.5 223 L 358.5 59.4 C 358.5 59.4 369.3 0 254.2 0 Z M 181.7 41.2 C 196.1 41.2 207.8 52.9 207.8 67.3 C 207.8 81.7 196.1 93.4 181.7 93.4 C 167.3 93.4 155.6 81.7 155.6 67.3 C 155.6 52.9 167.3 41.2 181.7 41.2 Z" fill="url(#blue)"/>
+    <!-- Stylized Python Snake Head & Curve 2 -->
+    <path d="M 257.8 512 C 394.5 512 386.2 452.6 386.2 452.6 L 386 391.1 L 254 391.1 L 254 372.3 L 438.2 372.3 C 438.2 372.3 512 380.7 512 244 C 512 107.3 447.5 114.6 447.5 114.6 L 409 114.6 L 409 168.2 C 409 168.2 412.6 232.3 346.4 232.3 L 214.2 232.3 C 214.2 232.3 153.5 230.7 153.5 289 L 153.5 452.6 C 153.5 452.6 142.7 512 257.8 512 Z M 330.3 470.8 C 315.9 470.8 304.2 459.1 304.2 444.7 C 304.2 430.3 315.9 418.6 330.3 418.6 C 344.7 418.6 356.4 430.3 356.4 444.7 C 356.4 459.1 344.7 470.8 330.3 470.8 Z" fill="url(#yellow)"/>
+  </g>
+</svg>
